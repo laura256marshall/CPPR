@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1732128381 source:/home/laura/Documents/Works/Cpp/CPPR/main.cpp
+	<SFML/Graphics.hpp>
+	<vector>
+
